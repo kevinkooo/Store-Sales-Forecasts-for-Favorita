@@ -19,3 +19,25 @@ We assume the grocery sales data in Ecuador exhibits seasonality and a long-term
 
 # Data processing and EDA
 <img width="1099" alt="image" src="https://github.com/user-attachments/assets/c00f9257-90d2-4e44-95c7-4d05b23919e3">
+<img width="1096" alt="image" src="https://github.com/user-attachments/assets/5c2e8b27-4c3a-49ae-b64a-d81cdf71728e">
+<img width="1055" alt="image" src="https://github.com/user-attachments/assets/2d8beab9-3c92-42ac-925d-66150892bf3a">
+
+# Feature Engineering
+## Holiday, Oil Prices and Promotion
+<img width="1237" alt="image" src="https://github.com/user-attachments/assets/22319f00-5230-4de4-8423-388fb3779f60">
+
+## DTW to Cluster Food Categories
+<img width="1222" alt="image" src="https://github.com/user-attachments/assets/4b6e05f5-5906-46b8-bb6c-067ca4417af1">
+<img width="1236" alt="image" src="https://github.com/user-attachments/assets/bd4699c5-b1dc-4d7b-8562-254ec03cc815">
+
+# Proposed Model and Approaches
+<img width="1133" alt="image" src="https://github.com/user-attachments/assets/401e12ba-2585-4f4d-a1c7-8ed8a8b55982">
+
+# Selected Model
+<img width="1204" alt="image" src="https://github.com/user-attachments/assets/c2248b13-1d7d-49c3-a47e-17c09ca22da6">
+
+# Insight Recommendations and Future Works
+<img width="1257" alt="image" src="https://github.com/user-attachments/assets/b4946bb0-85fb-4309-8dd4-6fa315c97077">
+
+
+
